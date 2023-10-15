@@ -1,0 +1,7 @@
+/* screen - frame6 */
+
+.frame6 {
+  background-color: var(--white);
+  height: 800px;
+  width: 360px;
+}

@@ -1,0 +1,79 @@
+:root { 
+  --black: #000000;
+  --black-2: #00000033;
+  --boulder: #787878;
+  --hint-of-red: #f9f9f9;
+  --mine-shaft: #333333;
+  --mine-shaft-2: #33333359;
+  --tangerine: #f29900;
+  --white: #ffffff;
+  --white-2: #ffffffb2;
+ 
+  --font-size-l: 12px;
+  --font-size-m: 9.5px;
+  --font-size-xl: 13.2px;
+  --font-size-xxl: 14px;
+  --font-size-xxxl: 15px;
+  --font-size-xxxxl: 16px;
+  --font-size-xxxxxl: 22px;
+ 
+  --font-family-avenir-black: "Avenir-Black", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-poppins-medium: "Poppins-Medium", Helvetica;
+  --font-family-poppins-regular: "Poppins-Regular", Helvetica;
+}
+.poppins-medium-boulder-9-5px {
+  color: var(--boulder);
+  font-family: var(--font-family-poppins-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-boulder-13-2px {
+  color: var(--boulder);
+  font-family: var(--font-family-poppins-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-semi-bold-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-medium-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-poppins-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenir-black-mine-shaft-15px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-avenir-black);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.poppins-medium-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-poppins-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-semi-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
